@@ -1,0 +1,13 @@
+---
+- key:
+  - name: sai
+    phone: 9999999
+    address: Hyd
+
+  - name: sunil
+    phone: 88888888
+    address: Hyd
+
+  - name: venu  
+    phone: 7777777
+    address: Hyd
