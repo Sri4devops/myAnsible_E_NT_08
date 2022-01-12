@@ -1,6 +1,6 @@
 
 
-[webservers]
+[mywebservers]
 172.31.29.153
 172.31.18.27
 
@@ -17,3 +17,7 @@
 
 [myredhatservers]
 172.31.18.27
+
+[mywebservers:vars]
+mywebpackforubuntu=apache2222
+mywebpackforredhat=httpd
