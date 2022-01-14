@@ -10,7 +10,7 @@
       state: present
 
   - name: i want to copy indexfile into ansible node
-    templetate:
+    template:
       src: myindexfile.j2
       dest: /var/www/html/index.html
   
