@@ -9,5 +9,5 @@
      name: tomcat
      shell: /bin/false
      group: tomcat
-     directory: /opt/tomcat
+     home: /opt/tomcat
      state: present
