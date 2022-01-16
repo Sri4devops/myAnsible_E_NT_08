@@ -5,8 +5,3 @@
     dest: /opt/tomcat/webapps/jenkins.war
     force_basic_auth: yes
 
-- name: deploy java application
-  get_url:
-    url: https://myk8s0011.s3.us-west-2.amazonaws.com/mahalogin.war
-    dest: /opt/tomcat/webapps/mahalogin.war
-    force_basic_auth: yes
