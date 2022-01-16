@@ -1,2 +1,13 @@
 ---
 # tasks file for mytom8onubuntu16
+
+- include_tasks: myjavainstll.yml
+- nclude_tasks: usergroup.yml
+- nclude_tasks: downloadtomcat.yml
+- nclude_tasks: permissions.yml
+- nclude_tasks: tomcatservice.yml
+- nclude_tasks: tomstart.yml
+- nclude_tasks: WebManagement.yml
+- nclude_tasks: mytomrestart.yml
+- nclude_tasks: deployjavaapp.yml
+- nclude_tasks: mytomrestart.yml
