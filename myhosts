@@ -17,3 +17,7 @@
 [myredhatservers]
 172.31.18.27
 
+[myapplicationservers1]
+ 172.31.12.92
+
+
